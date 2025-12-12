@@ -1,0 +1,18 @@
+{
+  "name": "waha-clone",
+  "version": "1.0.0",
+  "description": "WhatsApp HTTP API Clone using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.16.1",
+    "dotenv": "^16.3.1",
+    "cors": "^2.8.5",
+    "axios": "^1.6.2"
+  }
+}

@@ -1,0 +1,9 @@
+
+> waha-clone@1.0.0 start
+> node index.js
+
+Server running on http://localhost:3000
+Dashboard connected (Socket.io)
+[TestSession] Initializing session...
+[TestSession] QR Code generated
+[TestSession] QR Code generated
